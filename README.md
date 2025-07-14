@@ -1,5 +1,4 @@
 # Reto 5 - Servidor Web con Node.js y Express
-
 Este proyecto forma parte del Nivel 4 del curso de programación de FUNDAE. El objetivo es crear un servidor web básico utilizando Node.js y Express que sea capaz de:
 
 - Responder a solicitudes HTTP: GET, POST, PUT, DELETE
@@ -48,6 +47,4 @@ nivel4-backend-servidor-node/
 Proyecto completado y funcional, cumpliendo con todos los requisitos del reto 5 de FUNDAE.
 
 ✍️ Desarrollado por Verónica Sofía Batista
-  
 
-   
